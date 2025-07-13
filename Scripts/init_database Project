@@ -1,0 +1,7 @@
+use datawarehouse 
+
+Create schema Bronze
+
+create Schema Silver
+
+Create Schema Gold
